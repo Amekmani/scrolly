@@ -4,3 +4,6 @@ Scrolly simply takes the navigation you have in Bootstrap and sticks it to the t
 ##Dependencies
 * JQuery
 * Bootstrap
+
+## Instructions
+Just add `id="amkmenu"` to your navigation.
